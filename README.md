@@ -235,4 +235,4 @@ This repository serves as the official landing page for PowerProducer. The softw
 **Get the most recent version of PowerProducer today!**
 
 ---
-**Last updated:** 2026-10-20 07:06:47 UTC
+**Last updated:** 2026-10-20 13:17:28 UTC
